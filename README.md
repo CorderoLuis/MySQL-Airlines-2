@@ -1,2 +1,2 @@
-MySQL-Airlines-2
+Python and MySQL
 
